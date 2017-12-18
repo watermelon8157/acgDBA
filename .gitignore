@@ -1,0 +1,6 @@
+*.suo
+.vs
+/acgDBA/.vs
+/acgDBA/obj
+/acgDBA/bin
+/acgDBA/log
